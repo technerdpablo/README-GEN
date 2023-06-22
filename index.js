@@ -17,12 +17,12 @@ const questions = [
     },
     {
         type:"input",
-        message: "what is the installation for the README",
+        message: "what is the installation for the project",
         name:"installation",
     },
     {
         type:"input",
-        message:"what is the usage of this project",
+        message:"how will you explain usage of project",
         name:"usage",
     },
     {
