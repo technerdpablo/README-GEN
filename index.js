@@ -21,29 +21,29 @@ const questions = [
         name:"installation",
     },
     {
-        type:"usage"
-        message:""
-        name:
+        type:"input",
+        message:"how will you explain usage of README",
+        name:"usage",
     },
     {
-        type:"license"
-        message:
-        name:
+        type:"input",
+        message:"what license did you use for this README",
+        name:"license",
     },
     {
-        type:"contributing"
-        message:
-        name:
+        type:"input",
+        message:"what is the contribution for README",
+        name:"contributing",
     },
     {
-        type:"test"
-        message:
-        name:
+        type:"input",
+        message:"what is the test for the README",
+        name:"test",
     },
     {
-        type:"questions"
-        message:
-        name:
+        type:"input",
+        message:"what question are there for this README project",
+        name:"questions",
     },
 ];
 

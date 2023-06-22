@@ -29,6 +29,26 @@ ${data.description}
 
 ${data.installation}
 
+## Usage
+
+${data.usage}
+
+## License
+
+${data.license}
+
+## contributing
+
+${data.contributing}
+
+## Test
+
+${data.test}
+
+## Questions
+
+${data.questions}
+
 `;
 }
 
