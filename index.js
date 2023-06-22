@@ -17,27 +17,27 @@ const questions = [
     },
     {
         type:"input",
-        message: "what is the installation for the README",
+        message: "what is the installation for the project",
         name:"installation",
     },
     {
         type:"input",
-        message:"how will you explain usage of README",
+        message:"how will you explain usage of project",
         name:"usage",
     },
     {
         type:"input",
-        message:"what license did you use for this README",
+        message:"what license did you use for this project",
         name:"license",
     },
     {
         type:"input",
-        message:"what is the contribution for README",
+        message:"what is the contribution for this project",
         name:"contributing",
     },
     {
         type:"input",
-        message:"what is the test for the README",
+        message:"what is the test for this project",
         name:"test",
     },
     {
