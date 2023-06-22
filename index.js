@@ -21,29 +21,29 @@ const questions = [
         name:"installation",
     },
     {
-        type:"usage"
-        message:""
-        name:
+        type:"input",
+        message:"what is the usage of this project",
+        name:"usage",
     },
     {
-        type:"license"
-        message:
-        name:
+        type:"input",
+        message:"what license was used for this project",
+        name:"license",
     },
     {
-        type:"contributing"
-        message:
-        name:
+        type:"input",
+        message:"what are the contributions to this project",
+        name:"contributing",
     },
     {
-        type:"test"
-        message:
-        name:
+        type:"input",
+        message:"what is the test for this project",
+        name:"test",
     },
     {
-        type:"questions"
-        message:
-        name:
+        type:"input",
+        message:"what questions are there about this project",
+        name:"questions",
     },
 ];
 
