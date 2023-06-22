@@ -1,23 +1,14 @@
 {
-  "name": "readme-gen",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "GENERATOR OF README'S",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/technerdpablo/README-GEN.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/technerdpablo/README-GEN/issues"
-  },
-  "homepage": "https://github.com/technerdpablo/README-GEN#readme",
   "dependencies": {
-    "inquirer": "^9.2.7"
+    "inquirer": "8.2.4"
   }
 }
