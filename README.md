@@ -21,7 +21,7 @@
 
 ## License
 
-mit
+MIT
 
 ## contributing
 
