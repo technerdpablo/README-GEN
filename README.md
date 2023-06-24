@@ -2,7 +2,7 @@
 
 ## Description
 
- this is the description
+ This is a README generator. Designed to ask question related to the creation of the README and make life easier by letting you focus more on the project at hand.
 
 ## Table of Contents 
 
@@ -13,11 +13,12 @@
 
 ## Installation
 
- this is how you install
+ Installed using node.js
 
 ## Usage
 
- this is how you use the project
+ In order to use the README generator you would pull it up. Open the terminal and enter node js.index where you will be asked a series of questions that will end in the creation of a README.
+
 
 ## License
 
@@ -25,13 +26,13 @@ MIT
 
 ## contributing
 
-me, me , me
+Any contribution to help enhance this project is welcome and appreciated.
 
 ## Test
 
- one plus two
+ In order to test run node js.index in terminal.
 
 ## Questions
 
-whatever you want
+Any questions will be reviewed and responded to in a timely fashion in order to keep the generator up to date.
 
