@@ -1,8 +1,8 @@
-# README Generator
+# Readme generator
 
 ## Description
 
-This is a README generator design to make project easier enabling the user to focus on the project more and worry less about having to create the basics of a project README.
+This is a README generator. Designed to ask question related to the creation of the README and make life easier by letting you focus more on the project at hand.
 
 ## Table of Contents 
 
@@ -13,25 +13,24 @@ This is a README generator design to make project easier enabling the user to fo
 
 ## Installation
 
-begin by installing node js, and also node version manager.
+Installed using node.js
 
 ## Usage
 
-Questions are asked and with the given answer the README will be generated.
+In order to use the README generator you would pull it up. Open the terminal and enter node js.index where you will be asked a series of questions that will end in the creation of a README.
 
 ## License
-
 MIT
 
 ## Contributing
 
-Any Contribution to further enhance the quality of this README Genertor is apprecitated.
+Any contribution to help enhance this project is welcome and appreciated.
 
 ## Test
 
-Project can be tested by using node.js.
+In order to test run node js.index in terminal.
 
 ## Questions
 
-Any question about this project will be reviewed and updated and kept up to date.
+Any questions will be reviewed and responded to in a timely fashion in order to keep the generator up to date.
 
