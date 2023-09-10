@@ -37,6 +37,10 @@ npm install inquirer
 
 node index.js
 
+### Here is a video explanation of how the Generator works 
+
+https://drive.google.com/file/d/1VN2ij4SnsVAmQkaYNCqV97XuhVoHCC_w/view
+
 <a name="install"></a>
 
 ## Usage
