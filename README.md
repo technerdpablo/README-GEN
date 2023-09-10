@@ -29,13 +29,19 @@
 
 ## Installation
 
-### Installed using node.js
+### This application is installed by running
+
+npm install inquirer
+
+### Then the application is started by running
+
+node index.js
 
 <a name="install"></a>
 
 ## Usage
 
-### In order to use the README generator you would pull it up. Open the terminal and enter node js.index where you will be asked a series of questions that will end in the creation of a README.
+### Once the application is installed and started you will be prompted by a series of questions. Once you answer all question the README.MD file is created.
 
 <a name="use"></a>
 
